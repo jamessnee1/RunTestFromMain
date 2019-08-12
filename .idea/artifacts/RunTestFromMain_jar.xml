@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RunTestFromMain:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RunTestFromMain_jar</output-path>
+    <root id="archive" name="RunTestFromMain.jar">
+      <element id="module-output" name="RunTestFromMain" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/testng/testng/7.0.0-beta7/testng-7.0.0-beta7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/beust/jcommander/1.72/jcommander-1.72.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
